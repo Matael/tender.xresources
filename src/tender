@@ -1,0 +1,54 @@
+#define red1 #f43753
+#define red2 #c5152f
+#define red3 #79313c
+
+#define blue1 #b3deef
+#define blue2 #73cef4
+#define blue3 #44778d
+#define blue4 #335261
+
+#define green1 #c9d05c
+#define green2 #9faa00
+#define green3 #6a6b3f
+#define green4 #464632
+
+#define yellow1 #d3b987
+#define yellow2 #ffc24b
+#define yellow3 #715b2f
+
+#define highlighted #ffffff
+#define text #eeeeee
+#define gandalf #bbbbbb
+
+#define grey1 #999999
+#define grey2 #666666
+#define grey3 #444444
+
+#define shadow #323232
+#define bg #282828
+
+#define darker #1d1d1d
+#define darkest #040404
+
+*.foreground:   text
+*.background:   bg
+*.cursorColor:  gandalf
+*fading: 35
+*fadeColor: shadow
+
+*.color0: bg
+*.color1: red1
+*.color2: green1
+*.color3: yellow2
+*.color4: blue1
+*.color5: yellow1
+*.color6: blue2
+*.color7: text
+*.color8: darker
+*.color9: red1
+*.color10: green1
+*.color11: yellow2
+*.color12: blue1
+*.color13: yellow1
+*.color14: blue2
+*.color15: highlighted
